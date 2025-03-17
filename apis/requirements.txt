@@ -1,0 +1,9 @@
+Flask
+boto3
+fastapi[all]
+Flask-Login
+requests
+email_validator==2.1.1
+PyJWT==2.8.0
+python-decouple==3.8
+uvicorn==0.29.0
