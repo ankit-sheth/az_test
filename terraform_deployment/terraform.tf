@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key="AKIAR3HUOKM5V7XTCAQR"
-  secret_key="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"
+  access_key=""
+  secret_key=""
   region="us-east-1"
   /* shared_credentials_file = "/mnt/c/users/asheth/projects/test/Other/terraform_deployment/credentials"  
   # Replace with the path to your credentials file
